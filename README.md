@@ -1,10 +1,14 @@
 # Snake Game 經典貪食蛇 🐍
 
-![](./public/screenrecord_snakegame.mov)
+動態畫面
+![](./public/screenrecord.gif)
+
+靜態畫面
+![](./public/screenshot.png)
 
 ## 📌 專案目的
 
-透過此經典遊戲，著重在 JavaScript 的編程運用
+透過此經典遊戲著重在 JavaScript 的編程運用
 
 ## 🎯 專案功能
 
