@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ccb28b;
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#myCanvas {
+  border: 15px solid black;
+}
+#score-div {
+  margin-top: 4rem;
+  width: 430px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#myScore,
+#myScore2 {
+  margin: 0;
+  color: black;
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+#start-btn {
+  background-color: #ccb28b;
+  color: black;
+  font-size: 1.5rem;
+  margin-top: 8px;
+  font-weight: 900;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
