@@ -1,6 +1,6 @@
 # Snake Game 經典貪食蛇 🐍
 
-![](./public/screenrecord_snakegame.gif)
+![](./public/screenrecord_snakegame.mov)
 
 ## 📌 專案目的
 
